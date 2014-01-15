@@ -1,7 +1,7 @@
 pyPDB
 =====
 
-**pyPDB** is a python class that represents a strutural PDB file (not related to the python PDB debugger). It enables swift utility functions that can be used to prepare PDB files for further analysis and retrieve information from it.
+**pyPDB** is a python class that represents a structural PDB file (not related to the python PDB debugger). It enables swift utility functions that can be used to prepare PDB files for further analysis and retrieve information from it.
 
 Developed by Gareth Price (gareth.price@warwick.ac.uk). Please feel free to email or to use the issues pane at Github.
 
